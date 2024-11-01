@@ -56,6 +56,3 @@ Cypress generates reports for test results. To view them:
 
 This README should guide you through setting up, running, and reporting on your tests in the `cypress_demo_test` repository.
 
-
-Here is the link of detailed manual test case spreadsheet
-https://docs.google.com/spreadsheets/d/18wGJq7SGkmcsyGDZTXrGYMIXauDDXMUftxEeY7p1Szc/edit?gid=0#gid=0
