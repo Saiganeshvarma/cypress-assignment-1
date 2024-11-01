@@ -16,7 +16,7 @@ Before running the tests, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Pooja-Gangavathi/cypress_demo_test.git
+   git clone https://github.com/saiganesh/cypress_demo_test.git
    cd cypress_demo_test
    ```
 
